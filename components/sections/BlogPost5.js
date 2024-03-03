@@ -30,7 +30,7 @@ export default function BlogPost5() {
                                     <Link href="/blog-details" className="shine-animate"><img src="/assets/img/blog/h5_blog_post02.jpg" alt="" /></Link>
                                 </div>
                                 <div className="blog__post-content-four">
-                                <h3 className='title fw-bold text-white'> Teste</h3>
+                                <h3 className='title fw-bold text-white'> Teste51</h3>
                                     <Link href="/blog" className="blog__post-tag-three">Business</Link>
                                 </div>
                             </div>
