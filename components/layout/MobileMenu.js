@@ -22,16 +22,16 @@ export default function MobileMenu() {
     return (
         <>
             <ul className="navigation">
-                <li className="active menu-item"><Link href="#">Work</Link>
+                <li className="active menu-item"><Link href="/">Work</Link>
                    
                     <div className={isActive.key == 1 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(1)}><span className="plus-line" /></div></li>
-                <li className="menu-item"><Link href="#">Explore</Link>
+                <li className="menu-item"><Link href="/Explore">Explore</Link>
                     
                     <div className={isActive.key == 2 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(2)}><span className="plus-line" /></div></li>
-                <li className="menu-item"><Link href="#">About</Link>
+                <li className="menu-item"><Link href="/About-me">About</Link>
                     
                     <div className={isActive.key == 3 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(3)}><span className="plus-line" /></div></li>
-                <li className="menu-item"><Link href="#">Resume</Link>
+                <li className="menu-item"><Link href="/Resume">Resume</Link>
                    
                     <div className={isActive.key == 4 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(4)}><span className="plus-line" /></div>
                 </li>

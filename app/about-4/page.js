@@ -7,7 +7,7 @@ export default function About4() {
         <>
             <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="About Us">
                 <div>
-                    <section className="about__area-seven">
+                    <section className="about__area-seven bg-black">
                         <div className="container">
                             <div className="row align-items-center justify-content-center">
                                 <div className="col-lg-6 col-md-9 order-0 order-lg-2">
