@@ -20,13 +20,12 @@ const swiperOptions = {
 export default function Project3() {
     return (
         <>
-            <section className="project__area-three project__bg-three" data-background="/assets/img/bg/h3_project_bg.jpg">
+            <section className="project__area-three project__bg-three bg-black" >
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-xl-7 col-lg-8">
                             <div className="section-title text-center mb-50 tg-heading-subheading animation-style3">
-                                <span className="sub-title">OUR PROJECTS</span>
-                                <h2 className="title tg-element-title">We Provide Solutions To <br /> Big  Small Organizations For Work</h2>
+                                <h3 className="title tg-element-title text-white"> Explore Experience </h3>
                             </div>
                         </div>
                     </div>
@@ -35,27 +34,23 @@ export default function Project3() {
                             <div className="swiper-container project-active">
                                 <Swiper {...swiperOptions} className="swiper-wrapper">
                                     <SwiperSlide>
-                                        <div className="project__item-three shine-animate-item">
+                                        <div className="project__item-three ">
                                             <div className="project__content-three">
-                                                <span>Inventory Tracking</span>
                                                 <h2 className="title"><Link href="/project-details">Inventory Management</Link></h2>
-                                                <p>when anner unknown printer took type and scramble to make specimen book.</p>
-                                                <Link href="/project-details" className="btn btn-two">See Details</Link>
+                                                <p>when anner unknown printer took type and scramble to make specimen book.</p>     
                                             </div>
-                                            <div className="project__thumb-three shine-animate">
+                                            <div className="project__thumb-three ">
                                                 <img src="/assets/img/project/h3_project_img01.jpg" alt="" />
                                             </div>
                                         </div>
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <div className="project__item-three shine-animate-item">
-                                            <div className="project__content-three">
-                                                <span>Inventory Tracking</span>
+                                        <div className="project__item-three ">
+                                            <div className="project__content-three">  
                                                 <h2 className="title"><Link href="/project-details">Inventory Management</Link></h2>
-                                                <p>when anner unknown printer took type and scramble to make specimen book.</p>
-                                                <Link href="/project-details" className="btn btn-two">See Details</Link>
+                                                <p>when anner unknown printer took type and scramble to make specimen book.</p>  
                                             </div>
-                                            <div className="project__thumb-three shine-animate">
+                                            <div className="project__thumb-three ">
                                                 <img src="/assets/img/project/h3_project_img01.jpg" alt="" />
                                             </div>
                                         </div>
@@ -68,10 +63,6 @@ export default function Project3() {
                             </div>
                         </div>
                     </div>
-                </div>
-                <div className="project__shape-wrap-three">
-                    <img src="/assets/img/project/h3_project_shape01.png" alt="" data-aos="fade-left" data-aos-delay={400} />
-                    <img src="/assets/img/project/h3_project_shape02.png" alt="" className="alltuchtopdown" />
                 </div>
             </section>
         </>

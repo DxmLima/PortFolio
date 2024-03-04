@@ -7434,7 +7434,7 @@ textarea {
 }
 .project__content-three {
   width: 392px;
-  background: var(--tg-theme-secondary);
+  background: #0b1215;
   border-radius: 15px;
   padding: 60px 60px;
   position: absolute;
@@ -7690,8 +7690,8 @@ textarea {
   }
 }
 .project__nav-wrap .project-button-prev:hover {
-  background: var(--tg-theme-secondary);
-  color: var(--tg-color-white-default);
+  background: #000507;
+  color: var(--tg-theme-primary);
 }
 .project__nav-wrap .project-button-next {
   position: absolute;
@@ -7745,8 +7745,8 @@ textarea {
   }
 }
 .project__nav-wrap .project-button-next:hover {
-  background: var(--tg-theme-secondary);
-  color: var(--tg-color-white-default);
+  background: #000507;
+  color: var(--tg-theme-primary);
 }
 .project__details-area {
   padding: 120px 0;

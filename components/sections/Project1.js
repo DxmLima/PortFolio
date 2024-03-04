@@ -3,12 +3,11 @@ import Link from 'next/link'
 export default function Project1() {
     return (
         <>
-            <section className="project-area">
+            <section className="project-area bg-black">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-xl-6 col-lg-7">
                             <div className="section-title text-center mb-50 tg-heading-subheading animation-style3">
-                                <span className="sub-title">OUR PROJECTS</span>
                                 <h2 className="title tg-element-title">Let’s Discover All Our Clients Recent Project</h2>
                             </div>
                         </div>
