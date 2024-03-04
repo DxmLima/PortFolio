@@ -8,7 +8,7 @@ export default function About4() {
                     <div className="row align-items-center justify-content-center">
                         <div className="col-lg-6 col-md-8">
                             <div className="about__img-wrap-six">
-                                <img src="/assets/img/images/h4_about_img01.jpg" alt="" />
+                                <img src="/assets/img/about/about.jpeg" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-6">

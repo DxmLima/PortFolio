@@ -18,9 +18,7 @@ export default function About5() {
                                         <p>World Best Agency <br /> Award Got</p>
                                     </div>
                                 </div>
-                                <div className="shape">
-                                    <img src="/assets/img/images/h5_about_shape.png" alt="" className="ribbonRotate" />
-                                </div>
+                               
                             </div>
                         </div>
                         <div className="col-lg-6">
@@ -32,7 +30,7 @@ export default function About5() {
                                 <p>We successfully cope with tasks of varying complexity provide area longerty guarantees and regularly master.We successfully cope varying complexity provide area longerty guarantees.</p>
                                 <div className="about__content-inner-five">
                                     <div className="about__list-img-four">
-                                        <img src="/assets/img/images/about_list_img04.png" alt="" />
+                                        <img src="/assets/img/about/about.png" alt="" />
                                     </div>
                                     <div className="about__list-box">
                                         <ul className="list-wrap">
