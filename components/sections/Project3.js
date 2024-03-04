@@ -35,12 +35,9 @@ export default function Project3() {
                                 <Swiper {...swiperOptions} className="swiper-wrapper">
                                     <SwiperSlide>
                                         <div className="project__item-three ">
-                                            <div className="project__content-three">
-                                                <h2 className="title"><Link href="/project-details">Inventory Management</Link></h2>
-                                                <p>when anner unknown printer took type and scramble to make specimen book.</p>     
-                                            </div>
+                                            
                                             <div className="project__thumb-three ">
-                                                <img src="/assets/img/project/h3_project_img01.jpg" alt="" />
+                                                <img src="/assets/img/banner/casetest.png" alt="" />
                                             </div>
                                         </div>
                                     </SwiperSlide>
