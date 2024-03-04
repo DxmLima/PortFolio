@@ -21,9 +21,9 @@ export default function Home() {
         <>
           <Layout headerStyle={5} footerStyle={5} >
                 <Banner4 />
-                <BlogPost5 />
+                <Project4 /> 
                 <Marquee2 />
-                <Project4 />             
+                           
             </Layout>
         </>
     )

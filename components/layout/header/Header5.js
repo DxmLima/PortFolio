@@ -18,6 +18,8 @@ export default function Header5({ scroll, isMobileMenu, handleMobileMenu, transp
                                         <div className="tgmenu__navbar-wrap tgmenu__main-menu d-none d-lg-flex">
                                             <Menu />
                                         </div>
+
+                                       
                                       
                                         <div className="mobile-nav-toggler mobile-nav-toggler-two" onClick={handleMobileMenu}>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" fill="none">
