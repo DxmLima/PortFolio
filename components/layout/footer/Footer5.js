@@ -26,9 +26,9 @@ export default function Footer5() {
                                         <div className="footer-link-list">
                                             <h4 className='fw-title'> Contact me </h4>
                                             <ul className="list-wrap">
-                                                <li><Link href="/about">Linkedln</Link></li>
-                                                <li><Link href="/about">Instagram</Link></li>
-                                                <li><Link href="/about">GitHub</Link></li>
+                                                <li><Link href="https://www.linkedin.com/in/devmateuslima/" target='_blank'>Linkedln</Link></li>
+                                                <li><Link href="https://www.instagram.com/dev_mateuslima/" target='_blank'>Instagram</Link></li>
+                                                <li><Link href="https://github.com/DxmLima" target='_blank'>GitHub</Link></li>
                                                 <li><Link href="/about">Resume</Link></li>
                                             </ul>
                                         </div>
