@@ -29,7 +29,7 @@ export default function Footer5() {
                                                 <li><Link href="https://www.linkedin.com/in/devmateuslima/" target='_blank'>Linkedln</Link></li>
                                                 <li><Link href="https://www.instagram.com/dev_mateuslima/" target='_blank'>Instagram</Link></li>
                                                 <li><Link href="https://github.com/DxmLima" target='_blank'>GitHub</Link></li>
-                                                <li><Link href="/about">Resume</Link></li>
+                                                <li><Link href="/Resume">Resume</Link></li>
                                             </ul>
                                         </div>
                                     </div>
