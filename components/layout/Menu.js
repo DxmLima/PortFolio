@@ -7,9 +7,7 @@ export default function Menu() {
                 <li className=" menu-item"><Link href="/">Work</Link>
                    
                 </li>
-                <li className="menu-item"><Link href="/Explore">Explore</Link>
-                  
-                </li>
+              
                 <li className="menu-item-"><Link href="/About-me">About</Link>
                    
                 </li>
