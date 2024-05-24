@@ -27,7 +27,7 @@ export default function Footer5() {
                                             <h4 className='fw-title'> Contact me </h4>
                                             <ul className="list-wrap">
                                                 <li><Link href="https://www.linkedin.com/in/devmateuslima/" target='_blank'>Linkedln</Link></li>
-                                                <li><Link href="https://www.instagram.com/dev_mateuslima/" target='_blank'>Instagram</Link></li>
+                                                <li><Link href="https://www.instagram.com/mateuslima.dev/" target='_blank'>Instagram</Link></li>
                                                 <li><Link href="https://github.com/DxmLima" target='_blank'>GitHub</Link></li>
                                                 <li><Link href="/Resume">Resume</Link></li>
                                             </ul>
